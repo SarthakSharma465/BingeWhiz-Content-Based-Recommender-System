@@ -1,7 +1,3 @@
-Here’s an improved version of the README file for your movie recommender system project, incorporating details from your provided information and expanding on the process:
-
----
-
 # BingeWhiz: Content-Based Movie Recommender System
 
 BingeWhiz is a content-based movie recommender system that suggests movies based on a user's preference by leveraging the power of **Cosine Similarity**. The system recommends the top 5 movies similar to the one selected by the user, using data processing techniques and a user-friendly interface built with **Streamlit**.
